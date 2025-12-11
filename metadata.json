@@ -1,0 +1,5 @@
+{
+  "name": "Untangle (HK Edition)",
+  "description": "A philosophical agency classification system featuring a cute Hello Kitty aesthetic. It helps users categorize worries into My Domain, Others' Domain, or Life's Domain using the Gemini API.",
+  "requestFramePermissions": []
+}
